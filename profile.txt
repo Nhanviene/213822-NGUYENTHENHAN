@@ -1,2 +1,6 @@
 nguyễn thế nhân
 coding,design
+Skills:
+- Kỹ năng lập trình
+- Kỹ năng thiết kế
+- Kỹ năng giao tiếp
