@@ -4,4 +4,4 @@ Skills:
 - Kỹ năng lập trình
 - Kỹ năng thiết kế
 - Kỹ năng giao tiếp
-Đây là cập nhật từ GitHub Desktop trên nhánh feature-info. ...
+Đây là cập nhật từ GitHub Desktop trên nhánh feature-info.
